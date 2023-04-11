@@ -1,4 +1,4 @@
-<h1 align="center">⚡Zeus Cordeiro's Github Page⚡</h1>
+<h1 align="center">⚡Zeus Cordeiro's Github⚡</h1>
 
 <h2 align="center"><image height="20px" src="https://cdn-icons-png.flaticon.com/512/785/785822.png" /> About Me:</h2>
 
