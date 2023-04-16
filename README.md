@@ -33,6 +33,12 @@ Linkedin: <a href="https://www.linkedin.com/in/zeus-cordeiro/">zeus-cordeiro</a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 </p>
 
+
+  
+![Zeus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Zcordeiro&hide=stars,prs&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zcordeiro&layout=compact)
+
+
 <!--
 **Zcordeiro/Zcordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
