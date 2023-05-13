@@ -7,7 +7,6 @@ Web Developer with nearly a decade of management experience in the hospitality i
 </p>
 
 
-
 <h2 align="center">📫 How to reach me:</h2>
 <p align="center">
 Email: <a href="mailto:zeus.cordeiro@gmail.com"> zeus.cordeiro@gmail.com </a><br/>
@@ -35,8 +34,11 @@ Linkedin: <a href="https://www.linkedin.com/in/zeus-cordeiro/">zeus-cordeiro</a>
 
 
   
-![Zeus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Zcordeiro&hide=stars,prs&count_private=true&show_icons=true&theme=radical)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Zcordeiro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zcordeiro&layout=compact)
+
+
+[![Zeus' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Zcordeiro&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
