@@ -3,7 +3,7 @@
 <h2 align="center"><image height="20px" src="https://cdn-icons-png.flaticon.com/512/785/785822.png" /> About Me:</h2>
 
 <p align="center">
-Web Developer with nearly a decade of management experience in the hospitality industry and an ever growing interest to learn new technologies. A problem solver comfortable working in fast paced environments, dedicated to accomplishing goals and completing projects in the most detailed and efficient manner possible.
+Full Stack Developer with nearly a decade of management experience in the hospitality industry and an ever growing interest to learn new technologies. A problem solver comfortable working in fast paced environments, dedicated to accomplishing goals and completing projects in the most detailed and efficient manner possible.
 </p>
 
 
