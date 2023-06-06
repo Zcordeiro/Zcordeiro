@@ -34,7 +34,9 @@ Linkedin: <a href="https://www.linkedin.com/in/zeus-cordeiro/">zeus-cordeiro</a>
 
 
   
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Zcordeiro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+<p><img  align="left" width="46%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=Zcordeiro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></p>
+
+<p>&nbsp;<img  align="left" width="46%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Zcordeiro&show_icons=true&locale=en&theme=react" alt="Zcordeiro" /></p>
 
 
 <!--
