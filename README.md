@@ -10,7 +10,9 @@ Full Stack Developer with nearly a decade of management experience in the hospit
 <h2 align="center">📫 How to reach me:</h2>
 <p align="center">
 Email: <a href="mailto:zeus.cordeiro@gmail.com"> zeus.cordeiro@gmail.com </a><br/>
-Linkedin: <a href="https://www.linkedin.com/in/zeus-cordeiro/">zeus-cordeiro</a>
+Linkedin: <a href="https://www.linkedin.com/in/zeus-cordeiro/" target="_blank">zeus-cordeiro</a><br/>
+Portfolio: <a href="https://www.zeuscordeiro.com/" target="_blank">zeuscordeiro.com</a>
+  
 </p>
 
 <h2 align="center"><image height="40px" src="https://cdn-icons-png.flaticon.com/512/9166/9166953.png" /> Skills:</h2>
@@ -29,7 +31,10 @@ Linkedin: <a href="https://www.linkedin.com/in/zeus-cordeiro/">zeus-cordeiro</a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  /> <img width="12" /> </a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  /><img width="12" /> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /> </a>
+
 </p>
 
 
@@ -37,6 +42,7 @@ Linkedin: <a href="https://www.linkedin.com/in/zeus-cordeiro/">zeus-cordeiro</a>
 <p><img  align="left" width="46%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=Zcordeiro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></p>
 
 <p>&nbsp;<img  align="left" width="46%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Zcordeiro&show_icons=true&locale=en&theme=react" alt="Zcordeiro" /></p>
+
 
 
 <!--
