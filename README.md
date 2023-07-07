@@ -12,6 +12,24 @@ Full Stack Developer with nearly a decade of management experience in the hospit
 Email: <a href="mailto:zeus.cordeiro@gmail.com"> zeus.cordeiro@gmail.com </a><br/>
 Linkedin: <a href="https://www.linkedin.com/in/zeus-cordeiro/" target="_blank">zeus-cordeiro</a><br/>
 Portfolio: <a href="https://www.zeuscordeiro.com/" target="_blank">zeuscordeiro.com</a>
+
+<div align='center'>
+  <a href='https://www.linkedin.com/in/zeus-cordeiro/'>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+
+  <a href="mailto:zeus.cordeiro@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+
+  <a href="https://www.instagram.com/zcordeiro/">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
+
+  <a href="discordapp.com/users/728416173531594792">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
+
+  <a href='https://www.facebook.com/zeus.cordeiro/'>
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
+  
+</div>
   
 </p>
 
@@ -38,10 +56,14 @@ Portfolio: <a href="https://www.zeuscordeiro.com/" target="_blank">zeuscordeiro.
 </p>
 
 
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zcordeiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+</p>
+
 <p><img  align="left" width="46%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=Zcordeiro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></p>
 
 <p>&nbsp;<img  align="left" width="46%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Zcordeiro&show_icons=true&locale=en&theme=react" alt="Zcordeiro" /></p>
+
 
 
 
