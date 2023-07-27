@@ -56,13 +56,11 @@ Portfolio: <a href="https://www.zeuscordeiro.com/" target="_blank">zeuscordeiro.
 </p>
 
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zcordeiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
-</p>
+  <img  width="50%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=Zcordeiro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></p>
 
-<p><img  align="left" width="46%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=Zcordeiro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></p>
-
-<p>&nbsp;<img  align="left" width="46%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Zcordeiro&show_icons=true&locale=en&theme=react" alt="Zcordeiro" /></p>
 
 
 
