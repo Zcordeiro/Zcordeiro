@@ -61,6 +61,9 @@ Portfolio: <a href="https://www.zeuscordeiro.com/" target="_blank">zeuscordeiro.
 <p align="center">
   <img  width="50%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=Zcordeiro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zcordeiro&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 
