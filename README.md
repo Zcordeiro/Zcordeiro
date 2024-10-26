@@ -11,7 +11,8 @@ Full Stack Developer with nearly a decade of management experience in the hospit
 <p align="center">
 Email: <a href="mailto:zeus.cordeiro@gmail.com"> zeus.cordeiro@gmail.com </a><br/>
 Linkedin: <a href="https://www.linkedin.com/in/zeus-cordeiro/" target="_blank">zeus-cordeiro</a><br/>
-Portfolio: <a href="https://www.zeuscodes.com/" target="_blank">zeuscodes.com</a>
+Work With Me: <a href="https://www.gulfsandswebsolutions.com/" target="_blank">Gulf Sands Web Solutions</a>
+
 
 <div align='center'>
   <a href='https://www.linkedin.com/in/zeus-cordeiro/'>
