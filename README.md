@@ -1,15 +1,14 @@
 <h1 align="center">⚡Zeus Cordeiro's Github⚡</h1>
 
-<h2 align="center"><image height="20px" src="https://cdn-icons-png.flaticon.com/512/785/785822.png" /> About Me:</h2>
+<h2 align="center"><image width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/785/785822.png" /> About Me:</h2>
 
 <p align="center">
-Full Stack Developer with nearly a decade of management experience in the hospitality industry and an ever growing interest to learn new technologies. A problem solver comfortable working in fast paced environments, dedicated to accomplishing goals and completing projects in the most detailed and efficient manner possible.
-</p>
+My name is Zeus, and I’m dedicated to crafting seamless digital experiences that make an impact. With a strong foundation in both technical expertise and creative problem-solving, I bring innovation and precision to every project. My background in hospitality has given me a deep appreciation for user experience, attention to detail, and delivering exceptional service
 
 
 <h2 align="center">📫 How to reach me:</h2>
 <p align="center">
-Email: <a href="mailto:zeus.cordeiro@gmail.com"> zeus.cordeiro@gmail.com </a><br/>
+Email: <a href="mailto:info@zeuscordeiro.com"> zeus.cordeiro@gmail.com </a><br/>
 Linkedin: <a href="https://www.linkedin.com/in/zeus-cordeiro/" target="_blank">zeus-cordeiro</a><br/>
 Work With Me: <a href="https://www.gulfsandswebsolutions.com/" target="_blank">Gulf Sands Web Solutions</a>
 
@@ -34,7 +33,7 @@ Work With Me: <a href="https://www.gulfsandswebsolutions.com/" target="_blank">G
   
 </p>
 
-<h2 align="center"><image height="40px" src="https://cdn-icons-png.flaticon.com/512/9166/9166953.png" /> Skills:</h2>
+<h2 align="center"><image width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/9166/9166953.png" /> Skills:</h2>
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -45,14 +44,10 @@ Work With Me: <a href="https://www.gulfsandswebsolutions.com/" target="_blank">G
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  /> <img width="12" /> </a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  /><img width="12" /> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /> </a>
+<a href="https://https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" width="40" /></a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm logo"  /><img width="12" /> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="nextjs logo"  /> </a>
 
 </p>
 
@@ -60,7 +55,7 @@ Work With Me: <a href="https://www.gulfsandswebsolutions.com/" target="_blank">G
 
 
 <p align="center">
-<img  width="40%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=Zcordeiro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/> <img width="50%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zcordeiro&layout=compact&theme=radical"/>
+<img  width="40%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=Zcordeiro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/> 
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zcordeiro&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
