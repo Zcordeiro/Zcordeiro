@@ -12,44 +12,36 @@ Email: <a href="mailto:info@zeuscordeiro.com"> zeus.cordeiro@gmail.com </a><br/>
 Linkedin: <a href="https://www.linkedin.com/in/zeus-cordeiro/" target="_blank">zeus-cordeiro</a><br/>
 Work With Me: <a href="https://www.gulfsandswebsolutions.com/" target="_blank">Gulf Sands Web Solutions</a>
 
-
-<div align='center'>
-  <a href='https://www.linkedin.com/in/zeus-cordeiro/'>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-
-  <a href="mailto:zeus.cordeiro@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-
-  <a href="https://www.instagram.com/zcordeiro/">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
-
-  <a href="discordapp.com/users/728416173531594792">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
-
-  <a href='https://www.facebook.com/zeus.cordeiro/'>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
-  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
   
 </p>
 
 <h2 align="center"><image width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/9166/9166953.png" /> Skills:</h2>
-<p align="center"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" width="40" /></a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm logo"  /><img width="12" /> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="nextjs logo"  /> </a>
-
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+</div>
 
 
 
@@ -60,9 +52,31 @@ Work With Me: <a href="https://www.gulfsandswebsolutions.com/" target="_blank">G
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zcordeiro&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<h2 align="center"><image width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/9166/9166953.png" /> Recent Projects:</h2>
 
+<div align="center">
 
+### �� Inventory Manager
+**Full-stack inventory tracking system built with Next.js, TypeScript, and Supabase**
+- CRUD operations for inventory items with real-time updates
+- User authentication and role management
+- Mobile-first responsive dashboard design
+- Clean, intuitive interface for business inventory needs
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://inventory-manager-tau-six.vercel.app/)
+
+---
+
+### �� Estate Script - AI Real Estate Copywriter
+**AI-powered SaaS platform for real estate professionals to generate compelling property listings**
+- OpenAI GPT-4o integration for professional copy generation
+- Property listing descriptions, social media captions, and email campaigns
+- Stripe integration for pay-per-listing and subscription plans
+- Mobile-first design with Supabase backend and authentication
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://estatescript.com/)
+
+</div>
 
 
 <!--
