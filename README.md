@@ -56,18 +56,17 @@ Work With Me: <a href="https://www.gulfsandswebsolutions.com/" target="_blank">G
 
 <div align="center">
 
-### �� Inventory Manager
-**Full-stack inventory tracking system built with Next.js, TypeScript, and Supabase**
-- CRUD operations for inventory items with real-time updates
-- User authentication and role management
-- Mobile-first responsive dashboard design
-- Clean, intuitive interface for business inventory needs
+### 🍸 Tip-Out Tracker
+**Full-stack tip tracking system built with Next.js, TypeScript, and Supabase**
+- Multi-location shift management with real-time tip calculations
+- User authentication and secure data access with RLS policies
+- Mobile-first responsive calendar and dashboard design
+- Clean, intuitive interface for bartender earnings tracking
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://inventory-manager-tau-six.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://tip-out-tracker.vercel.app/)
 
 ---
-
-### �� Estate Script - AI Real Estate Copywriter
+### 🏠 Estate Script - AI Real Estate Copywriter
 **AI-powered SaaS platform for real estate professionals to generate compelling property listings**
 - OpenAI GPT-4o integration for professional copy generation
 - Property listing descriptions, social media captions, and email campaigns
