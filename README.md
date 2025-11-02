@@ -10,7 +10,7 @@ My name is Zeus, and I’m dedicated to crafting seamless digital experiences th
 <p align="center">
 Email: <a href="mailto:info@zeuscordeiro.com"> zeus.cordeiro@gmail.com </a><br/>
 Linkedin: <a href="https://www.linkedin.com/in/zeus-cordeiro/" target="_blank">zeus-cordeiro</a><br/>
-Work With Me: <a href="https://www.gulfsandswebsolutions.com/" target="_blank">Gulf Sands Web Solutions</a>
+Work With Me: <a href="https://www.sproutedrootsdigital.com/" target="_blank">Sprouted Roots Digital Solutions</a>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
